@@ -1,0 +1,501 @@
+Rank,Company Name,Revenue Cr,Revenue %CHG,PAT Cr,PAT %CHG,MCAP
+1,Reliance Industries Ltd.,575873.00,43.36,39588.00,9.74,949280.41
+2,Indian Oil Corporation Ltd.,532247.59,24.99,17376.70,-21.69,125768.47
+3,Oil And Natural Gas Corporation Ltd.,432962.31,29.97,30494.96,37.95,172135.97
+4,State Bank of India,330687.36,7.88,2299.64,LP,290140.98
+5,Tata Motors Ltd.,305280.69,2.06,-28826.23,PL,48588.33
+6,Bharat Petroleum Corporation Ltd.,301200.45,26.10,7802.30,-13.39,111550.97
+7,Hindustan Petroleum Corporation Ltd.,277816.42,24.94,6690.63,-7.31,45237.26
+8,Rajesh Exports Ltd.,175830.66,-6.35,1292.13,2.08,20200.00
+9,Tata Steel Ltd.,159738.75,15.42,10218.33,-23.94,45758.52
+10,Coal India Ltd.,153127.54,14.04,17461.85,148.09,126223.50
+11,Tata Consultancy Services Ltd.,150774.00,18.96,31472.00,21.86,799565.14
+12,Larsen & Toubro Ltd.,143153.37,17.88,8905.13,20.83,195557.04
+13,Hindalco Industries Ltd.,131669.85,11.16,5495.67,-9.65,44147.64
+14,ICICI Bank Ltd.,131306.50,10.37,4254.24,-44.84,318508.23
+15,HDFC Bank Ltd.,124107.79,22.46,22332.43,20.65,691980.53
+16,Mahindra & Mahindra Ltd.,107752.09,11.71,5315.46,-29.23,70212.83
+17,Housing Development Finance Corporation Ltd.,103584.69,20.79,16231.76,35.49,386084.94
+18,NTPC Ltd.,98274.63,4.80,12640.02,19.88,116721.18
+19,Vedanta Ltd.,96386.00,-5.65,7065.00,-31.69,55138.16
+20,Maruti Suzuki India Ltd.,88785.80,8.25,7649.10,-2.93,218163.01
+21,Bharti Airtel Ltd.,86581.30,1.08,409.50,-62.74,207156.70
+22,Infosys Ltd.,85557.00,15.88,15404.00,-3.90,300107.97
+23,JSW Steel Ltd.,84961.00,17.77,7639.00,22.93,60545.42
+24,GAIL (India) Ltd.,78181.88,40.95,6545.74,36.40,57452.42
+25,Grasim Industries Ltd.,73851.44,29.51,1771.92,-33.85,51164.41
+26,Axis Bank Ltd.,70232.40,20.10,5038.59,1005.39,207918.76
+27,Steel Authority of India (SAIL) Ltd.,67690.88,14.68,2348.71,LP,15922.16
+28,Motherson Sumi Systems Ltd.,63856.20,12.80,1613.10,1.01,41390.60
+29,Mangalore Refinery And Petrochemicals Ltd.,63600.40,28.93,340.04,-82.94,8561.01
+30,Wipro Ltd.,61632.70,8.06,9003.70,12.51,150850.20
+31,HCL Technologies Ltd.,61370.00,18.48,10120.00,16.04,154495.98
+32,Bank of Baroda,60793.30,12.48,1100.10,LP,39026.87
+33,Punjab National Bank,59514.52,3.31,-9570.11,LL,29309.38
+34,Canara Bank,54269.14,11.34,601.85,LP,16129.51
+35,Power Finance Corporation Ltd.,54201.08,11.37,9920.86,48.32,30178.10
+36,ITC Ltd.,50538.17,10.58,12592.33,11.72,311546.85
+37,Jindal Steel & Power Ltd.,46981.42,40.86,-1645.34,LL,14789.49
+38,Redington (India) Ltd.,46599.38,11.91,507.78,5.43,4475.14
+39,Bank of India,46268.85,4.78,-5426.57,LL,23430.80
+40,Kotak Mahindra Bank Ltd.,45979.11,18.46,7204.13,16.18,305362.32
+41,General Insurance Corporation of India,45073.27,3.50,2757.57,-12.33,47025.81
+42,SBI Life Insurance Company Ltd.,44780.35,30.84,1326.80,15.33,97023.50
+43,Bajaj Finserv Ltd.,42606.93,29.65,3219.04,21.46,142966.52
+44,ICICI Prudential Life Insurance Company Ltd.,42053.87,7.93,1138.93,-29.66,73315.07
+45,Adani Enterprises Ltd.,41579.22,13.71,717.14,-5.30,22678.43
+46,Chennai Petroleum Corporation Ltd.,41405.16,27.09,-205.35,PL,2119.64
+47,Vodafone Idea Ltd.,41367.70,42.87,-14603.90,LL,14637.81
+48,Hindustan Unilever Ltd.,39860.00,10.67,6054.00,16.11,451807.29
+49,Union Bank of India,39355.38,2.45,-2922.35,LL,18142.00
+50,Petronet LNG Ltd.,38920.85,25.76,2230.56,5.69,41521.50
+51,HDFC Life Insurance Company Ltd.,38896.41,19.53,1277.93,15.42,117667.49
+52,UltraTech Cement Ltd.,37817.81,19.80,2434.72,9.56,118658.37
+53,Power Grid Corporation of India Ltd.,36149.01,6.23,10033.52,22.30,101447.07
+54,Tech Mahindra Ltd.,35276.30,9.59,4297.60,13.10,73731.02
+55,Hero MotoCorp Ltd.,34718.31,5.11,3444.09,-7.43,50973.01
+56,YES Bank Ltd.,34299.28,34.18,1709.27,-59.62,17121.14
+57,Ashok Leyland Ltd.,33795.77,11.69,2078.70,18.08,23364.38
+58,Reliance Infrastructure Ltd.,33748.17,48.01,-2426.82,PL,948.67
+59,Tata Power Company Ltd.,33412.99,8.79,2190.94,-9.03,15377.46
+60,Bajaj Auto Ltd.,32496.72,21.87,4927.61,16.80,92776.36
+61,Bharat Heavy Electricals Ltd.,31029.17,5.16,1011.84,129.36,19171.30
+62,Sun Pharmaceutical Industries Ltd.,30091.40,10.11,2665.42,27.19,104709.65
+63,InterGlobe Aviation Ltd.,29821.37,24.42,157.25,-92.99,55842.82
+64,MMTC Ltd.,29489.08,78.63,108.72,189.77,2782.13
+65,IndusInd Bank Ltd.,27907.87,26.68,3300.75,-8.47,99094.29
+66,The New India Assurance Company Ltd.,27615.29,10.07,604.71,-72.39,25249.83
+67,Ambuja Cements Ltd.,26424.91,10.36,2177.40,43.59,40011.84
+68,Adani Power Ltd.,26361.63,24.98,-984.40,LL,24808.80
+69,IDBI Bank Ltd.,25637.43,-15.37,-14986.76,LL,34522.66
+70,REC Ltd.,25441.28,12.19,5741.38,29.00,27476.57
+71,Central Bank of India,25164.95,-6.04,-5616.93,LL,8934.68
+72,Tata Steel BSL Ltd.,24183.32,41.36,1711.89,LP,2802.51
+73,Syndicate Bank,23949.23,-2.57,-2524.20,LL,7646.59
+74,Hindustan Zinc Ltd.,22900.00,-4.94,7956.00,-14.23,89331.29
+75,Andhra Bank,22290.98,4.63,-2742.00,LL,5501.16
+76,UPL Ltd.,22091.00,24.16,1447.00,-28.44,42810.17
+77,Future Retail Ltd.,22077.42,9.74,732.81,6379.31,17355.78
+78,Avenue Supermarts Ltd.,22003.46,32.61,902.54,11.94,118206.63
+79,Indian Overseas Bank,21837.58,0.81,-3737.88,LL,9623.41
+80,Sundaram Clayton Ltd.,21579.26,22.18,432.14,27.80,4362.10
+81,Indian Bank,21073.50,7.89,380.13,-70.99,6069.78
+82,Reliance Capital Ltd.,20693.00,9.57,-1513.00,LL,501.38
+83,Oriental Bank of Commerce,20536.77,1.76,54.99,LP,7603.98
+84,Hindustan Aeronautics Ltd.,20270.74,5.05,2265.02,13.79,26206.81
+85,TVS Motor Company Ltd.,20187.13,22.79,704.67,8.02,21701.50
+86,Titan Company Ltd.,19961.46,23.15,1404.15,24.25,104761.96
+87,Aurobindo Pharma Ltd.,19721.57,19.03,2364.73,-2.41,25922.56
+88,Asian Paints Ltd.,19609.39,14.27,2159.49,5.91,167782.31
+89,Max Financial Services Ltd.,19501.23,19.36,262.56,-8.32,12916.85
+90,Allahabad Bank,18806.39,-3.50,-8457.37,LL,9428.98
+91,Bajaj Finance Ltd.,18501.76,45.03,3994.99,60.03,244755.23
+92,Apollo Tyres Ltd.,17672.08,18.15,679.84,-6.08,9734.44
+93,Corporation Bank,17504.09,-12.25,-6325.30,LL,12469.43
+94,LIC Housing Finance Ltd.,17395.58,16.93,2433.95,21.22,21730.48
+95,Lupin Ltd.,17085.95,7.12,606.55,141.40,34487.54
+96,Indiabulls Housing Finance Ltd.,17027.04,13.83,4090.53,5.01,10153.99
+97,Cipla Ltd.,16838.98,8.55,1527.70,8.31,37803.27
+98,EID Parry (India) Ltd.,16668.08,6.78,153.49,-40.00,3179.54
+99,Tata Communications Ltd.,16587.45,-2.61,-82.37,LL,10603.14
+100,MRF Ltd.,16484.19,7.85,1130.60,-0.09,26962.45
+101,Oil India Ltd.,16058.17,28.37,3237.80,18.40,17462.53
+102,UCO Bank,15844.14,4.64,-4321.08,LL,11549.82
+103,Dr. Reddy's Laboratories Ltd.,15785.70,9.35,1950.00,105.96,47169.85
+104,Shriram Transport Finance Company Ltd.,15545.70,14.06,2575.68,1.05,25709.25
+105,Aditya Birla Capital Ltd.,15397.81,31.57,870.94,25.67,21060.75
+106,PTC India Ltd.,15285.28,18.37,425.28,112.69,1682.30
+107,ACC Ltd.,14954.60,11.39,1520.47,64.48,28213.10
+108,Exide Industries Ltd.,14869.05,15.48,845.55,22.37,16213.96
+109,Siemens Ltd.,14166.20,8.34,1099.40,21.99,56416.75
+110,Rain Industries Ltd.,14090.65,23.44,581.63,-23.83,3458.52
+111,Jindal Stainless Ltd.,13653.13,16.31,142.38,-58.49,1825.24
+112,Piramal Enterprises Ltd.,13528.14,24.22,1473.09,-71.24,35260.30
+113,Cadila Healthcare Ltd.,13366.70,11.22,1848.80,4.11,25012.32
+114,Torrent Power Ltd.,13358.79,13.29,898.94,-4.60,13810.25
+115,L&T Finance Holdings Ltd.,13301.52,29.57,2226.30,77.44,20106.08
+116,Coromandel International Ltd.,13262.48,19.02,720.48,4.22,13806.48
+117,IDFC First Bank Ltd.,13142.66,28.62,-1907.88,PL,20611.35
+118,NCC Ltd.,13022.54,53.13,578.69,243.17,3491.43
+119,Federal Bank Ltd.,12970.66,17.12,1316.29,40.71,17192.75
+120,Dewan Housing Finance Corporation Ltd.,12911.66,18.55,-965.91,PL,677.93
+121,Bosch Ltd.,12853.20,5.34,1598.30,16.57,46092.88
+122,Shree Cements Ltd.,12804.41,25.26,1006.39,-27.29,70464.34
+123,NMDC Ltd.,12741.63,3.27,4618.84,21.28,31762.35
+124,Jindal Saw Ltd.,12641.07,46.40,850.16,376.28,2627.39
+125,Bengal & Assam Company Ltd.,12587.80,706.62,348.13,73.32,1490.05
+126,Bank of Maharashtra,12417.92,-1.73,-4763.25,LL,7097.55
+127,National Fertilizers Ltd.,12301.05,36.61,295.08,38.69,1320.40
+128,Adani Ports & Special Economic Zone Ltd.,12287.78,-0.37,3990.22,8.62,76616.28
+129,Godrej Industries Ltd.,12283.82,22.85,589.53,74.50,14573.48
+130,Bharat Electronics Ltd.,12237.16,15.48,1886.40,31.76,26688.69
+131,Varroc Engineering Ltd.,12158.71,17.06,446.32,-0.88,6182.50
+132,Bombay Burmah Trading Corporation Ltd.,12082.38,15.74,888.67,220.36,8034.33
+133,Tata Chemicals Ltd.,12070.64,12.46,1155.91,-52.49,16440.56
+134,NLC India Ltd.,12046.96,0.66,1507.71,-22.39,7660.49
+135,National Aluminium Company Ltd.,11826.48,10.74,1733.69,29.17,8541.09
+136,Nestle India Ltd.,11551.19,13.40,1606.93,31.16,139150.48
+137,CESC Ltd.,11508.98,7.27,1183.98,29.74,10114.33
+138,Britannia Industries Ltd.,11261.12,11.71,1159.12,15.42,75697.08
+139,KEC International Ltd.,11032.45,9.50,495.77,7.68,7084.65
+140,Cholamandalam Financial Holdings Ltd.,10946.81,22.86,696.70,26.69,8976.89
+141,United Bank of India,10944.46,3.68,-2315.93,LL,6784.66
+142,Jaiprakash Associates Ltd.,10891.16,20.14,-2110.36,LL,524.44
+143,Kalpataru Power Transmissions Ltd.,10884.61,24.62,466.75,66.29,6952.06
+144,Edelweiss Financial Services Ltd.,10881.75,21.98,995.17,15.29,10895.81
+145,NHPC Ltd.,10760.19,19.89,2595.61,3.25,23661.09
+146,Godrej Consumer Products Ltd.,10694.32,5.35,2341.53,43.28,73870.63
+147,Hindustan Construction Company Ltd.,10552.62,3.57,-341.14,LL,1427.82
+148,Eicher Motors Ltd.,10498.85,10.50,2202.73,12.40,60032.29
+149,Mahindra & Mahindra Financial Services Ltd.,10477.78,31.91,1827.30,54.18,20938.17
+150,Jindal Stainless (Hisar) Ltd.,10476.34,-1.54,381.35,-34.03,1678.73
+151,JK Tyre & Industries Ltd.,10452.01,24.16,176.34,167.02,1729.48
+152,Alok Industries Ltd.,10439.25,80.18,2076.16,LP,328.63
+153,Chambal Fertilisers & Chemicals Ltd.,10376.81,34.32,590.21,18.32,6636.78
+154,Bharat Forge Ltd.,10348.52,21.75,1032.17,35.38,21068.63
+155,Glenmark Pharmaceuticals Ltd.,10240.79,11.73,924.99,15.07,9127.12
+156,ICICI Lombard General Insurance Company Ltd.,10226.53,20.59,1049.26,21.75,61087.78
+157,Havells India Ltd.,10173.35,23.18,785.98,18.66,42358.53
+158,NBCC (India) Ltd.,10151.74,17.90,375.16,-0.83,6839.10
+159,Larsen & Toubro Infotech Ltd.,9748.10,26.06,1515.90,36.32,29091.16
+160,Dalmia Bharat Ltd.,9728.00,9.87,308.00,5.48,16242.34
+161,Apollo Hospitals Enterprise Ltd.,9649.86,16.60,236.05,101.03,19897.92
+162,JSW Energy Ltd.,9537.49,10.00,695.13,791.54,11962.88
+163,Gujarat State Petronet Ltd.,9498.10,28.65,998.60,34.71,12255.12
+164,Dilip Buildcon Ltd.,9463.15,18.61,547.45,-5.23,5647.37
+165,United Spirits Ltd.,9413.00,6.64,700.20,10.48,45108.07
+166,Punjab & Sind Bank,9386.95,10.05,-543.48,LL,1192.08
+167,Spicejet Ltd.,9266.26,17.45,-302.41,PL,6621.21
+168,Jain Irrigation Systems Ltd.,9257.53,8.87,239.09,9.00,643.27
+169,Ebixcash World Money India Ltd.,9189.62,19.35,-10.05,PL,299.20
+170,DLF Ltd.,9156.73,-49.90,1319.20,-70.45,51257.28
+171,Jubilant Life Sciences Ltd.,9146.56,21.02,574.46,-10.63,8295.75
+172,Welspun Corp Ltd.,9088.13,40.34,-13.26,PL,3652.08
+173,State Trading Corporation Of India Ltd.,9017.04,-19.60,-883.02,LL,347.33
+174,Rashtriya Chemicals & Fertilizers Ltd.,8988.59,21.07,134.08,70.11,2795.69
+175,Dabur India Ltd.,8812.12,9.78,1442.33,6.49,82478.07
+176,PC Jeweller Ltd.,8764.28,-9.68,0.61,-99.89,1280.30
+177,Quess Corp Ltd.,8598.22,38.13,256.74,-17.44,7774.27
+178,Gujarat State Fertilizer & Chemicals Ltd.,8598.22,35.09,493.13,4.09,2945.02
+179,Reliance Power Ltd.,8538.35,-13.54,-2951.82,PL,1103.26
+180,Jammu & Kashmir Bank Ltd.,8493.04,19.25,463.85,128.85,1798.09
+181,GMR Infrastructure Ltd.,8394.84,-9.48,-3580.58,LL,12808.18
+182,Bharti Infratel Ltd.,8385.50,1.69,2493.80,0.00,42691.77
+183,Zuari Agro Chemicals Ltd.,8215.38,10.86,-170.58,PL,396.11
+184,Zee Entertainment Enterprises Ltd.,8187.80,12.75,1567.10,5.95,29264.76
+185,Aditya Birla Fashion and Retail Ltd.,8182.50,13.57,321.22,172.71,16458.01
+186,Mahindra CIE Automotive Ltd.,8070.20,25.03,498.10,38.98,5619.01
+187,Graphite India Ltd.,8067.60,140.50,3395.58,229.03,5995.26
+188,CG Power and Industrial Solutions Ltd.,8048.82,-0.55,-503.50,LL,937.59
+189,Marico Ltd.,8043.00,15.83,1118.00,37.35,46677.33
+190,Aster DM Healthcare Ltd.,7997.33,15.93,333.11,23.89,7441.41
+191,Apar Industries Ltd.,7978.90,36.87,136.06,-6.00,1865.31
+192,Uflex Ltd.,7977.93,16.89,313.84,1.08,1456.60
+193,MphasiS Ltd.,7907.69,17.89,1073.35,28.16,16642.13
+194,Gujarat Gas Ltd.,7867.46,26.66,418.45,43.09,13662.50
+195,DCM Shriram Ltd.,7858.78,12.97,905.50,35.24,5376.02
+196,Kama Holdings Ltd.,7787.37,35.29,338.56,38.90,3282.12
+197,RBL Bank Ltd.,7743.07,37.53,857.84,35.81,14389.78
+198,SRF Ltd.,7732.83,35.56,641.63,38.97,17985.25
+199,Torrent Pharmaceuticals Ltd.,7729.85,23.70,436.28,-35.66,30383.11
+200,Bandhan Bank Ltd.,7707.10,39.91,1951.50,45.03,86375.22
+201,PNB Housing Finance Ltd.,7683.22,39.97,1191.52,41.65,9307.67
+202,Adani Transmission Ltd.,7656.64,88.81,559.20,-51.07,30530.45
+203,South Indian Bank Ltd.,7602.73,8.15,247.53,-26.09,2001.26
+204,Muthoot Finance Ltd.,7601.05,12.08,2078.01,13.56,27695.24
+205,Endurance Technologies Ltd.,7537.55,18.24,495.01,26.68,15363.20
+206,Alkem Laboratories Ltd.,7444.89,14.25,760.51,20.54,24460.56
+207,Container Corporation of India Ltd.,7427.08,5.39,1231.62,15.22,34786.61
+208,Tata Global Beverages Ltd.,7408.63,6.55,408.19,-17.63,19097.09
+209,Voltas Ltd.,7311.64,11.05,507.91,-11.27,23099.47
+210,Pidilite Industries Ltd.,7228.98,16.01,924.91,-3.89,67715.26
+211,Arvind Ltd.,7226.93,4.00,226.23,-26.90,1270.36
+212,APL Apollo Tubes Ltd.,7164.03,34.09,148.25,-6.25,3671.67
+213,Vardhman Textiles Ltd.,7116.57,10.11,730.72,25.73,5124.75
+214,Security and Intelligence Services (India) Ltd.,7110.96,21.14,215.82,33.16,6768.87
+215,MindTree Ltd.,7110.80,25.79,754.10,32.28,11572.81
+216,Cholamandalam Investment & Finance Company Ltd.,7108.83,27.87,1198.06,30.32,24436.53
+217,Ceat Ltd.,7043.71,11.17,252.22,5.98,3903.52
+218,ABB India Ltd.,7030.83,10.44,510.89,21.65,30764.54
+219,Allcargo Logistics Ltd.,6933.88,13.80,241.96,41.21,2406.45
+220,Karnataka Bank Ltd.,6907.92,8.31,477.24,46.57,2154.90
+221,IRB Infrastructure Developers Ltd.,6902.62,15.25,849.97,-7.58,2666.36
+222,Bajaj Hindusthan Sugar Ltd.,6902.28,16.05,-136.56,LL,774.31
+223,Amara Raja Batteries Ltd.,6839.88,11.66,483.49,2.58,12343.72
+224,Deepak Fertilisers & Petrochemicals Corporation Ltd.,6796.36,12.92,70.67,-56.56,892.61
+225,Karur Vysya Bank Ltd.,6778.59,2.71,210.87,-39.00,4667.31
+226,Thomas Cook (India) Ltd.,6771.68,-60.75,84.82,-98.58,5238.04
+227,Bajaj Electricals Ltd.,6744.36,41.58,156.40,87.01,3440.53
+228,Raymond Ltd.,6707.65,10.95,167.98,24.77,4292.50
+229,HEG Ltd.,6702.02,142.61,3026.16,175.27,4028.95
+230,Whirlpool of India Ltd.,6695.53,11.37,409.74,16.84,27955.42
+231,Birla Corporation Ltd.,6627.20,14.18,255.69,66.10,4926.00
+232,Welspun India Ltd.,6608.44,7.78,209.83,-45.49,5470.34
+233,SREI Infrastructure Finance Ltd.,6550.55,21.31,486.85,28.94,460.70
+234,United Breweries Ltd.,6507.44,15.54,562.94,42.81,32812.57
+235,PDS Multinational Fashions Ltd.,6501.98,31.40,52.84,LP,825.47
+236,Escorts Ltd.,6361.21,24.13,478.93,38.01,8015.60
+237,Future Lifestyle Fashions Ltd.,6342.47,28.22,188.99,49.90,8105.16
+238,Future Enterprises Ltd.,6275.38,15.18,144.96,2000.87,1077.14
+239,Simplex Infrastructures Ltd.,6229.81,5.55,122.30,8.36,287.07
+240,Prism Johnson Ltd.,6225.47,11.63,116.40,173.88,3576.00
+241,Dish TV India Ltd.,6218.28,32.63,-1144.90,LL,2705.70
+242,BASF India Ltd.,6208.25,7.24,81.72,-66.85,4224.94
+243,Reliance Communications Ltd.,6204.00,32.31,-7206.00,LL,185.29
+244,Thermax Ltd.,6123.05,33.65,325.43,40.21,12632.88
+245,Berger Paints (India) Ltd.,6121.89,17.45,497.86,8.04,47662.56
+246,Gujarat Narmada Valley Fertilizers & Chemicals Ltd.,6116.56,2.30,749.74,-5.69,3086.18
+247,Shriram City Union Finance Ltd.,6069.86,11.60,1001.74,35.27,8789.10
+248,Cummins India Ltd.,6025.02,11.26,742.61,4.33,15463.46
+249,Godrej Agrovet Ltd.,6024.26,14.85,329.04,43.55,9324.60
+250,Surya Roshni Ltd.,5984.50,21.13,120.88,11.88,945.75
+251,Indraprastha Gas Ltd.,5980.25,27.30,842.10,16.68,28652.23
+252,Minda Industries Ltd.,5935.12,29.76,285.62,-7.92,9147.17
+253,Biocon Ltd.,5854.30,34.55,905.30,143.10,31464.30
+254,Tube Investments of India Ltd.,5831.25,15.28,240.42,63.12,8409.78
+255,GFL Ltd.,5815.10,44.46,1304.89,414.73,803.56
+256,India Cements Ltd.,5809.60,9.79,21.06,-67.63,2534.59
+257,Kothari Products Ltd.,5800.42,-9.08,123.57,123.25,180.16
+258,Supreme Industries Ltd.,5701.34,13.84,448.63,3.91,14491.17
+259,Aegis Logistics Ltd.,5624.01,17.18,221.39,11.92,6030.01
+260,Housing and Urban Development Corporation Ltd.,5591.22,32.05,1179.85,16.83,8347.42
+261,Sadbhav Engineering Ltd.,5558.84,9.14,21.13,LP,2143.07
+262,Kansai Nerolac Paints Ltd.,5484.84,15.98,452.75,-11.98,28802.86
+263,Balkrishna Industries Ltd.,5428.16,13.48,773.65,5.15,16617.42
+264,Prestige Estates Projects Ltd.,5404.20,-3.15,415.60,11.93,11251.88
+265,JK Cement Ltd.,5339.06,7.17,263.63,-8.96,8936.74
+266,Sanwaria Consumer Ltd.,5317.80,4.96,156.06,84.27,152.37
+267,L&T Technology Services Ltd.,5301.10,34.53,765.60,51.30,15202.09
+268,Trident Ltd.,5292.26,14.50,371.77,39.68,3241.69
+269,Blue Star Ltd.,5274.71,13.16,190.06,32.02,7678.99
+270,Indiabulls Real Estate Ltd.,5226.92,10.46,504.15,-78.75,3146.40
+271,GlaxoSmithKline Consumer Healthcare Ltd.,5214.61,14.01,982.80,40.38,37612.27
+272,IIFL Finance Ltd.,5200.14,-19.58,690.69,-13.09,4556.18
+273,The Ramco Cements Ltd.,5187.30,16.37,510.72,-9.48,18730.14
+274,Network 18 Media & Investments Ltd.,5158.34,163.99,-302.97,LL,2690.90
+275,Suzlon Energy Ltd.,5143.98,-40.50,-1527.18,LL,1364.78
+276,Oracle Financial Services Software Ltd.,5134.99,11.19,1385.90,12.03,26126.78
+277,Varun Beverages Ltd.,5130.10,27.70,292.84,39.35,20699.87
+278,Sterlite Technologies Ltd.,5124.12,59.31,562.75,68.32,5123.76
+279,ISGEC Heavy Engineering Ltd.,5119.42,33.03,142.76,-9.23,2852.00
+280,Divi's Laboratories Ltd.,5101.89,27.39,1352.74,54.24,46093.27
+281,Coffee Day Enterprises Ltd.,5052.86,13.73,127.51,20.00,944.08
+282,Fortis Healthcare Ltd.,5038.17,3.90,-298.94,LL,11047.14
+283,TV18 Broadcast Ltd.,5013.89,218.68,166.90,1620.62,4036.01
+284,Ircon International Ltd.,5007.68,18.86,450.07,10.13,3966.61
+285,Ashoka Buildcon Ltd.,5007.22,34.90,-33.46,LL,2687.12
+286,Paul Merchants Ltd.,4929.89,3.70,22.08,-89.66,118.26
+287,Hinduja Global Solutions Ltd.,4861.18,25.11,177.18,-11.68,1255.65
+288,HFCL Ltd.,4784.75,47.08,219.91,31.00,2220.41
+289,Hatsun Agro Products Ltd.,4766.35,10.96,114.85,26.43,9540.22
+290,Cyient Ltd.,4752.00,16.88,478.50,18.03,4372.09
+291,Polyplex Corporation Ltd.,4733.43,30.88,330.03,106.98,1560.21
+292,Shree Renuka Sugars Ltd.,4717.60,-39.64,-1448.37,LL,1678.92
+293,Aarti Industries Ltd.,4707.61,23.44,491.73,47.68,14449.29
+294,Hexaware Technologies Ltd.,4705.62,17.91,583.46,16.80,10104.29
+295,Schaeffler India Ltd.,4652.31,16.30,419.80,8.06,13400.72
+296,Arvind Fashions Ltd.,4647.99,9.85,16.61,14.79,2260.62
+297,Indian Hotels Company Ltd.,4643.62,10.80,286.82,184.35,17954.59
+298,Sundram Fasteners Ltd.,4584.70,18.22,457.49,18.35,9810.36
+299,Gokul Agro Resources Ltd.,4555.74,-10.17,10.88,-29.62,175.68
+300,Colgate-Palmolive (India) Ltd.,4530.59,7.22,775.57,15.18,41745.40
+301,Crompton Greaves Consumer Electricals Ltd.,4526.92,10.13,401.38,23.96,15986.33
+302,Bombay Dyeing & Manufacturing Company Ltd.,4479.45,65.03,1241.72,3429.62,1683.33
+303,TeamLease Services Ltd.,4465.66,22.69,98.03,33.45,4462.46
+304,HCL Infosystems Ltd.,4454.86,20.55,-135.20,LL,274.52
+305,Tamil Nadu Newsprint And Papers Ltd.,4431.63,31.40,94.39,LP,1277.67
+306,CESC Ventures Ltd.,4392.57,119.02,64.17,-15.07,849.12
+307,GVK Power & Infrastructure Ltd.,4388.61,-9.84,-363.49,LL,739.86
+308,JK Lakshmi Cement Ltd.,4378.06,14.61,51.25,-7.22,3460.29
+309,Sakuma Exports Ltd.,4370.22,-4.09,69.83,42.48,147.54
+310,Balrampur Chini Mills Ltd.,4335.28,-1.09,575.82,148.56,3297.80
+311,Atul Ltd.,4304.86,21.47,432.23,56.33,12230.34
+312,Kesoram Industries Ltd.,4290.42,6.39,-363.32,LL,754.05
+313,City Union Bank Ltd.,4281.56,8.82,682.85,15.35,15716.85
+314,GE T&D India Ltd.,4277.12,-6.45,212.67,1.87,4467.62
+315,Sundaram Finance Ltd.,4254.10,-32.94,1160.85,59.04,17996.67
+316,Jayaswal Neco Industries Ltd.,4243.94,20.94,-443.87,LL,233.39
+317,KEI Industries Ltd.,4238.17,21.97,180.86,24.94,4282.15
+318,Century Textiles & Industries Ltd.,4214.27,4.43,668.67,79.91,4766.80
+319,Wockhardt Ltd.,4179.40,3.01,-194.53,LL,3071.35
+320,Manappuram Finance Ltd.,4178.84,20.11,922.41,36.21,13846.71
+321,KRBL Ltd.,4135.64,26.72,503.02,15.79,4817.23
+322,Zensar Technologies Ltd.,4059.01,27.56,313.59,29.83,4244.84
+323,Jaiprakash Power Ventures Ltd.,4057.49,-22.43,-373.44,LL,658.66
+324,Electrotherm (India) Ltd.,4054.74,38.09,141.85,4692.23,174.54
+325,Gujarat Ambuja Exports Ltd.,4033.08,19.55,198.15,10.16,1627.66
+326,Sun TV Network Ltd.,4025.06,28.67,1433.27,26.27,19712.77
+327,Shipping Corporation of India Ltd.,4021.51,9.57,-62.66,PL,2824.96
+328,Castrol India Ltd.,3988.86,8.75,708.36,2.39,14637.25
+329,Prakash Industries Ltd.,3977.64,34.85,539.22,39.60,836.95
+330,Alembic Pharmaceuticals Ltd.,3944.06,25.69,584.37,41.62,10635.36
+331,LT Foods Ltd.,3914.53,7.25,126.53,-6.04,755.85
+332,Future Consumer Ltd.,3912.26,28.70,-6.39,LL,4765.64
+333,Mahindra Logistics Ltd.,3858.97,12.77,85.64,33.79,2786.98
+334,Firstsource Solutions Ltd.,3830.17,8.18,377.79,15.70,2973.88
+335,Great Eastern Shipping Company Ltd.,3829.89,21.95,-21.45,LL,4558.80
+336,PNC Infratech Ltd.,3821.68,56.90,351.37,44.59,4699.10
+337,Ipca Laboratories Ltd.,3803.37,15.27,444.83,85.79,13818.21
+338,Jindal Poly Films Ltd.,3799.12,-43.13,-408.65,PL,985.80
+339,Abbott India Ltd.,3791.89,11.02,450.33,12.24,25953.12
+340,Sadbhav Infrastructure Project Ltd.,3783.43,62.90,-245.27,LL,1435.87
+341,Mukand Ltd.,3768.46,-21.30,-115.48,PL,455.80
+342,Force Motors Ltd.,3734.07,6.94,143.33,-2.58,1397.54
+343,NIIT Technologies Ltd.,3729.70,23.07,403.30,43.93,9501.64
+344,Kirloskar Oil Engines Ltd.,3693.14,18.10,219.17,56.86,2377.84
+345,Jubilant Foodworks Ltd.,3610.50,18.71,319.79,62.97,21114.14
+346,Shoppers Stop Ltd.,3596.58,-8.47,64.97,-73.40,3169.22
+347,JM Financial Ltd.,3578.65,15.57,572.18,-4.77,7481.80
+348,Time Technoplast Ltd.,3566.95,14.88,202.74,12.41,1334.73
+349,Phillips Carbon Black Ltd.,3548.49,37.18,383.70,67.67,2146.32
+350,Avanti Feeds Ltd.,3547.05,3.04,273.63,-38.71,6961.22
+351,JK Paper Ltd.,3542.26,13.89,427.28,63.97,2066.34
+352,Sobha Ltd.,3515.55,24.11,296.99,36.94,3877.80
+353,BEML Ltd.,3497.49,7.15,63.18,-51.28,4067.51
+354,Gayatri Projects Ltd.,3472.16,18.96,160.10,LP,1676.61
+355,Persistent Systems Ltd.,3453.60,9.54,351.68,8.85,4939.80
+356,Wheels India Ltd.,3448.84,33.41,76.51,1.90,1505.13
+357,JMC Projects (India) Ltd.,3433.56,18.17,76.63,185.40,1792.58
+358,KPR Mill Ltd.,3428.54,12.77,334.87,15.32,4788.38
+359,Strides Pharma Science Ltd.,3420.50,-3.23,324.62,-51.15,3522.49
+360,Au Small Finance Bank Ltd.,3410.87,58.26,381.81,30.74,22577.03
+361,DCB Bank Ltd.,3391.92,24.54,325.37,32.62,5594.96
+362,India Glycols Ltd.,3373.51,10.34,132.61,37.38,689.66
+363,Kirloskar Brothers Ltd.,3372.65,20.57,3.48,-92.96,1135.82
+364,GHCL Ltd.,3356.83,13.51,350.58,-1.62,2039.90
+365,IFB Industries Ltd.,3346.83,20.95,72.95,-9.90,2864.89
+366,Godawari Power & Ispat Ltd.,3331.31,31.18,252.11,21.42,532.24
+367,GlaxoSmithKline Pharmaceuticals Ltd.,3279.21,11.39,445.39,26.99,27779.51
+368,BGR Energy Systems Ltd.,3275.59,-1.37,19.30,17.83,225.34
+369,Finolex Cables Ltd.,3259.81,9.81,407.47,23.43,5615.48
+370,Bajaj Holdings & Investment Ltd.,3258.68,16.00,3048.38,14.83,41194.74
+371,Honeywell Automation India Ltd.,3245.61,19.19,358.84,43.69,24627.95
+372,Godrej Properties Ltd.,3235.93,53.92,253.15,191.28,23281.67
+373,Triveni Engineering & Industries Ltd.,3235.60,-4.94,216.28,81.53,1587.55
+374,Gujarat Alkalies & Chemicals Ltd.,3223.38,25.90,690.19,29.13,3081.60
+375,Bharat Dynamics Ltd.,3205.34,-32.66,422.59,-19.99,6147.62
+376,Supreme Petrochem Ltd.,3203.80,5.57,49.21,-57.62,1630.30
+377,Nava Bharat Ventures Ltd.,3195.14,32.19,357.55,50.22,1185.87
+378,Blue Dart Express Ltd.,3193.64,13.25,89.76,-37.97,5173.63
+379,AIA Engineering Ltd.,3190.39,24.29,510.83,15.22,15683.08
+380,Cochin Shipyard Ltd.,3188.97,25.34,478.13,20.63,5315.10
+381,Minda Corporation Ltd.,3173.00,20.97,169.20,18.57,2145.79
+382,Maharashtra Seamless Ltd.,3166.07,40.76,234.20,11.14,2520.21
+383,Finolex Industries Ltd.,3145.74,13.22,367.25,19.89,7207.79
+384,IFCI Ltd.,3134.49,-28.13,-488.67,PL,1292.85
+385,SKF India Ltd.,3126.91,10.81,335.77,13.48,10643.23
+386,PVR Ltd.,3118.70,31.84,183.63,47.26,8976.69
+387,Jai Balaji Industries Ltd.,3117.43,29.50,-153.68,LL,201.99
+388,SJVN Ltd.,3107.15,17.56,1366.56,11.59,9667.31
+389,Lakshmi Vilas Bank Ltd.,3090.21,-8.80,-894.10,LL,647.33
+390,Monnet Ispat & Energy Ltd.,3088.62,120.62,-3552.11,LL,468.63
+391,Mangalore Chemicals & Fertilizers Ltd.,3085.67,12.92,32.88,-45.72,341.46
+392,3M India Ltd.,3076.69,11.29,366.18,9.85,25230.26
+393,Venky's (India) Ltd.,3072.15,13.15,174.14,-12.80,2474.13
+394,Brigade Enterprises Ltd.,3029.03,55.57,239.91,72.35,4224.31
+395,VLS Finance Ltd.,3021.77,39.37,22.47,-10.69,210.14
+396,Procter & Gamble Hygiene & Healthcare Ltd.,2999.84,20.99,419.13,11.89,36799.56
+397,Bata India Ltd.,2999.32,11.73,328.99,49.20,21617.26
+398,RSWM Ltd.,2994.12,0.39,-38.29,PL,242.64
+399,Sonata Software Ltd.,2990.91,19.61,249.26,29.47,3224.96
+400,Dixon Technologies (India) Ltd.,2990.08,5.07,63.36,4.04,3520.69
+401,Kajaria Ceramics Ltd.,2974.23,9.26,226.57,-3.57,11803.29
+402,Dhampur Sugar Mills Ltd.,2972.49,-12.03,251.04,65.48,1257.59
+403,Akzo Nobel India Ltd.,2961.30,0.04,211.00,-47.26,9119.01
+404,MEP Infrastructure Developers Ltd.,2939.46,20.12,56.28,-20.70,661.98
+405,Asahi India Glass Ltd.,2939.31,10.45,190.18,7.22,4881.99
+406,WABCO India Ltd.,2926.62,11.71,282.17,3.42,11755.72
+407,Trent Ltd.,2910.34,21.73,96.96,11.49,18304.34
+408,PI Industries Ltd.,2900.40,24.09,410.20,11.59,19632.91
+409,Forbes & Company Ltd.,2899.14,1.30,6.96,LP,2370.15
+410,Page Industries Ltd.,2888.63,12.27,393.94,13.53,25872.73
+411,Filatex India Ltd.,2888.26,48.98,84.98,42.25,823.44
+412,Narayana Hrudayalaya Ltd.,2877.59,25.03,59.17,15.23,5949.23
+413,Mahanagar Gas Ltd.,2868.78,25.24,546.39,14.34,9984.83
+414,Sanofi India Ltd.,2858.00,12.49,380.60,16.75,15532.25
+415,J Kumar Infraprojects Ltd.,2815.21,35.40,177.07,29.67,1204.56
+416,Lakshmi Machine Works Ltd.,2814.20,2.32,185.38,-13.63,3635.51
+417,Transport Corporation of India Ltd.,2798.24,17.24,144.40,17.24,2140.56
+418,Ratnamani Metals & Tubes Ltd.,2796.13,55.41,252.92,66.65,4499.38
+419,Nectar Lifesciences Ltd.,2788.91,48.17,47.60,-8.93,305.96
+420,Va Tech Wabag Ltd.,2788.64,-19.53,105.02,-20.14,953.41
+421,Electrosteel Castings Ltd.,2783.59,18.74,38.17,-69.23,529.70
+422,Galaxy Surfactants Ltd.,2767.67,13.24,190.98,20.85,5391.42
+423,TVS Electronics Ltd.,2764.50,-32.86,9.85,-39.01,210.22
+424,HSIL Ltd.,2744.46,21.30,70.05,-5.47,351.31
+425,Essel Propack Ltd.,2743.81,11.98,192.53,12.20,4278.64
+426,Dhunseri Investments Ltd.,2738.17,-3.11,87.74,-11.50,130.02
+427,Carborundum Universal Ltd.,2736.13,13.43,247.68,14.88,5934.04
+428,Emami Ltd.,2729.53,7.04,303.23,-1.27,14508.23
+429,Amber Enterprises India Ltd.,2727.54,28.28,93.66,50.31,3128.44
+430,Bayer Cropscience Ltd.,2722.90,-0.94,237.60,-20.83,15579.40
+431,Mahanagar Telephone Nigam Ltd.,2721.50,-15.43,-3388.07,LL,600.96
+432,Deepak Nitrite Ltd.,2715.04,63.19,173.66,119.77,4771.78
+433,Engineers India Ltd.,2698.11,34.87,369.55,-3.59,7218.44
+434,Rane Holdings Ltd.,2689.83,7.60,103.73,-20.39,1156.67
+435,Orient Cement Ltd.,2686.88,12.28,47.55,7.53,1569.59
+436,Southern Petrochemicals Industries Corporation Ltd.,2671.49,31.08,62.99,38.71,405.75
+437,Oberoi Realty Ltd.,2668.14,105.94,816.93,78.06,18513.33
+438,Godfrey Phillips India Ltd.,2665.20,6.98,260.31,63.60,6211.09
+439,Prime Focus Ltd.,2663.74,16.22,-22.71,LL,1842.77
+440,Shankara Building Products Ltd.,2658.53,4.28,32.74,-55.63,753.88
+441,Heritage Foods Ltd.,2654.87,-4.37,81.43,29.73,1531.58
+442,Himatsingka Seide Ltd.,2654.26,17.10,196.84,-2.38,1350.43
+443,Birlasoft Ltd.,2651.09,13.45,289.47,14.48,1863.28
+444,Sutlej Textiles & Industries Ltd.,2641.64,3.52,58.26,-48.61,521.33
+445,Patel Engineering Ltd.,2627.19,1.42,154.15,47.10,608.13
+446,V-Guard Industries Ltd.,2614.06,11.87,167.24,24.56,10072.77
+447,Tinplate Company of India Ltd.,2613.69,35.06,58.00,-20.72,1433.32
+448,Renaissance Global Ltd.,2583.32,40.03,83.70,32.81,459.65
+449,Brightcom Group Ltd.,2577.73,6.51,443.98,9.08,172.05
+450,ITD Cementation India Ltd.,2551.53,16.71,65.50,-10.05,1030.71
+451,Uttam Value Steels Ltd.,2537.89,-6.36,-630.38,LL,125.55
+452,Astral Poly Technik Ltd.,2522.73,20.96,195.81,11.83,16415.00
+453,Magma Fincorp Ltd.,2514.06,7.91,304.01,28.33,1229.92
+454,Usha Martin Ltd.,2509.28,17.12,47.98,LP,939.85
+455,Hindusthan National Glass & Industries Ltd.,2505.77,27.51,-172.95,LL,289.04
+456,DB Corp Ltd.,2479.35,6.19,273.84,-15.47,2504.18
+457,Solar Industries India Ltd.,2476.29,28.42,261.61,18.62,9453.34
+458,Siyaram Silk Mills Ltd.,2470.34,0.86,99.09,-10.58,1106.32
+459,Motilal Oswal Financial Services Ltd.,2468.23,-10.32,293.97,-52.76,10646.34
+460,The Fertilisers and Chemicals Travancore Ltd.,2466.76,21.19,163.14,LP,2548.49
+461,Jayant Agro Organics Ltd.,2444.49,-4.35,55.80,4.36,388.03
+462,TVS Srichakra Ltd.,2442.98,12.70,102.94,-11.37,1376.73
+463,HT Media Ltd.,2435.52,-5.94,-45.40,PL,385.90
+464,Himadri Speciality Chemical Ltd.,2430.16,19.49,324.29,31.05,2876.88
+465,Spencer's Retail Ltd.,2425.87,126.96,2.39,LP,540.02
+466,Parag Milk Foods Ltd.,2405.92,22.34,120.72,38.66,1191.84
+467,Jagran Prakashan Ltd.,2403.94,2.26,260.55,-13.11,1594.04
+468,Religare Enterprises Ltd.,2401.72,-12.20,-1287.17,LL,1147.07
+469,Huhtamaki PPL Ltd.,2385.74,11.25,34.88,-45.17,1855.30
+470,Nilkamal Ltd.,2382.41,11.62,117.33,-4.97,1922.39
+471,KNR Constructions Ltd.,2368.93,11.46,270.51,11.10,3378.72
+472,Equitas Holdings Ltd.,2358.53,32.53,176.59,1190.86,3193.63
+473,Granules India Ltd.,2354.63,37.58,236.41,78.30,3178.52
+474,Sandhar Technologies Ltd.,2342.19,20.05,95.16,46.35,1456.99
+475,Sarda Energy & Minerals Ltd.,2340.74,4.31,203.18,0.34,662.51
+476,Nahar Spinning Mills Ltd.,2317.85,8.20,65.12,LP,167.71
+477,Laurus Labs Ltd.,2308.07,10.68,93.76,-44.06,3776.36
+478,Relaxo Footwears Ltd.,2305.06,18.48,175.44,8.92,13995.14
+479,Mahindra Holidays & Resorts India Ltd.,2295.74,-2.33,60.42,-54.36,2985.78
+480,Century Plyboards (India) Ltd.,2287.54,12.59,148.45,-8.96,3783.40
+481,Savita Oil Technologies Ltd.,2280.92,27.27,114.27,-9.45,1285.98
+482,Power Mech Projects Ltd.,2276.95,46.47,121.62,53.10,968.70
+483,Johnson Controls-Hitachi Air Conditioning India Ltd.,2256.72,2.92,85.94,-14.19,5377.12
+484,Pfizer Ltd.,2248.89,7.97,429.05,19.16,18471.34
+485,Rites Ltd.,2247.85,36.15,469.51,37.09,7254.63
+486,Man Industries (India) Ltd.,2242.37,34.73,58.84,-7.62,246.67
+487,Sunflag Iron & Steel Company Ltd.,2240.67,7.14,110.25,-14.30,541.25
+488,HIL Ltd.,2234.77,71.61,101.40,25.57,886.32
+489,Kirloskar Industries Ltd.,2226.66,21.67,84.08,69.48,617.33
+490,Natco Pharma Ltd.,2224.70,-0.02,644.40,-7.44,10386.35
+491,Vindhya Telelinks Ltd.,2219.18,55.84,275.61,79.66,1005.66
+492,Jindal Worldwide Ltd.,2218.61,33.82,30.03,-48.75,1234.43
+493,Gokul Refoils & Solvent Ltd.,2217.68,6.93,11.83,30.72,169.62
+494,Linde India Ltd.,2206.49,7.79,25.69,58.68,5181.57
+495,Cosmo Films Ltd.,2176.67,15.72,61.11,-5.15,448.63
+496,Sheela Foam Ltd.,2170.54,9.27,133.74,0.02,6258.43
+497,Heidelberg Cement India Ltd.,2168.17,13.55,220.66,65.69,4311.59
+498,Kirloskar Ferrous Industries Ltd.,2164.68,22.27,98.11,158.18,860.89
+499,Tata Metaliks Ltd.,2161.76,12.90,181.89,14.27,1650.87
+500,Pennar Industries Ltd.,2159.85,20.20,66.44,-25.67,434.00
